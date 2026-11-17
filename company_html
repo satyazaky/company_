@@ -1,0 +1,156 @@
+
+<html>
+    <head>
+        <title>Kampung Inggris</title>
+        <link rel="stylesheet" href="satya company.css">
+    </head>
+    <body>
+        <div>
+            <!-- PART 1 Navbar Menu-->
+            <nav> 
+                <div class="wrapper"> <!--Pembuka rappper pertama-->
+                    <div class="logo">
+                        <a href="">KampungInggris</a>
+                    </div>
+                    <div class="menu">
+                        <ul>
+                            <li><a href="#home">Home</a></li>
+                            <li><a href="#online">Kelas Online</a></li>
+                            <li><a href="#offline">Kelas Offline</a></li>
+                            <li><a href="#partners">Partners</a></li>
+                            <li><a href="#about">contact</a></li>
+                            <li><a href="#" class="tbl-one">Sign Up</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <!--- PART 2 wrapper atas-->
+            <div class="wrapper">
+                <section id="home">
+                    <img src="" class="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.42 (3).jpeg">
+                    <div class="kolom">
+                        <p class="deskripsi"> Belajar Bahasa Inggris #kapanpun</p>
+                        <h2>Always Enjoy n Happpy</h2>
+                        <p>Kursus Bahasa Inggris Online & Offline. Kursus bahasa Inggris
+                           termurah dn lengkap. Langsung belajar dari ahlinya. Langkah jitu meningkatkan
+                           skill Bahasa Inggris untuk persiapan pendidikan dan akaddemi.
+                        </p>
+                        <p> <a href="" class="tbl-two">Ayo Bergabung</a></p>
+                    </div> 
+                </section>       
+            </div> 
+ 
+            <!-- PART 3 untuk kelas online-->
+             <section id="online">
+                <div class="kolom">
+                    <p class=" deskripsi">Untuk Pemula. Belajar dari NOL.</p>
+                    <h2>Kelas Online</h2>
+                    <p>Jadwal belajar Senin s/d Jum'at. Hari Sabtu dan Minggu libur. Jam belajarnya fleksibel.
+                       TANPA tatap muka. Belajar dari NOL.
+                       Diikuti oleh pelajar (minimal SMP), Mahasiswa, dan Umum (termasuk karyawan).
+                       Baca kembali oinfo Sistem Pembelajaran di atas!
+                    </p>
+                    <p>Peserta bisa mengakses materi dan latihan soal kapan saja. Belajarnya tidak harus saat materi
+                       di-share, selonggarnya.Jadi aktu belajar siswa bisa disesuaikan dengan kesibukannya
+                       masing-masing (FLEKSIBEL).
+                    </p>
+                    <P> <a href="" class="tbl-one">Pelajari Lebih Lanjut</a></P>
+                </div>
+                <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.44 (3).jpeg" class="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.44 (3).jpeg">
+             </section>
+
+             <!-- PART 4 kelas offline-->
+              <section id="offline">
+                <div class="tengah">
+                    <div class="kolom">
+                        <p class=" deskripsi">Kelas Offline</p>
+                        <h2>Tutor terbaik</h2>
+                        <p>Kampung inggris memiliki tutors yang berpengalaman</p>
+                    </div>
+                    <div class="tutor-list">
+                        <div class="kartu-tutor">
+                            <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.42 (1).jpeg">
+                            <p>Joko Susilo</p>
+                        </div>
+                          <div class="kartu-tutor">
+                            <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.44 (2).jpeg">
+                            <p>Arkataji</p>
+                        </div>
+                          <div class="kartu-tutor">
+                            <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.44.jpeg">
+                            <p>Raningcipta</p>
+                        </div>
+                          <div class="kartu-tutor">
+                            <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.44 (2).jpeg">
+                             <p>Rusdianto</p>
+                </section>
+              <!--PART 5 SECTION PARTNER-->
+              <section id="partners">
+                <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Top Partners</p>
+                    <h2>Partners Kerjasama</h2>
+                    <p> Saat ini Kampung Inggris Pare sudah mempunyai kelas online ya guys!
+                        Tedapat berbagai macam kelas yang bisa diikuti. Mulai ari kelas dasar
+                        , intermediete, hingga advanced. Ada juga kelas yang fokus pada persiapan tes
+                        TOEFL, IELTS, atau TOEIC. Metode belajarnya juga bermacam-macam sesuai kebutuhan
+                        Pembelajaran. Metode belajar pada masing kelas sudah diuji secara akademik oleh
+                        ahlinya. Yuk Gabung!! Inilah kampunginggris.co, satu-satunya website Kampung Inggris
+                        yang di dukung oleh 6 Lembaga Kursus dan Pelatihan resmi dari Kampung Inggris. Setiap
+                        lembaga menyelenggarakan kelas sesuai spesialisasinya masing-masing.
+                    </p>
+                </div>
+                <div class="partner-list">
+                    <div class="kartu-partner">
+                    <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.43 (3).jpeg">
+                    </div>
+                    <div class="kartu-partner">
+                    <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.43 (2).jpeg">
+                    </div>
+                    <div class="kartu-partner">
+                    <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.43.jpeg">
+                    </div>
+                     <div class="kartu-partner">
+                    <img src="c:\Users\OS\Pictures\Camera Roll\WhatsApp Image 2026-11-17 at 20.45.43 (1).jpeg">
+                    </div>
+                </div>
+                </div>
+              </section>
+
+              <!--PART 6 untuk contack-->
+               <div class="contact">
+                 <section id="about">
+                    <div class="wrapper">
+                        <div class="footer">
+                            <div class=" footer-section">
+                                <h4>KampungIngggris</h4>
+                                <p>Lembaga Resmi dari Kampung Inggris Pare dengan izin operasional tahun 2025.</p>
+                            </div>
+                            <div class=" footer-section">
+                                <h4>About</h4>
+                                <p>Instagram :@kampunginggris.co</p>
+                                <p>Facebook : kampunginggris.co</p>
+                            </div>
+                            <div class=" footer-section">
+                                <h4>Contack</h4>
+                                <p>Jln. Riayanto No 44  Desa Pare (Kampung Inggris) - Mojokerto 601122</p>
+                            </div>
+                            <div class=" footer-section">
+                                <h4>Sosial</h4>
+                                <p>Whatsapp : 0812-3456-7890 (Mrs. Elvaa`)</p>
+                            </div>
+                        </div>
+                    </div>
+                 </section>
+               </div>
+
+               <!--PART 7 COPYRIGHT-->
+                <div id="copyright">
+                   <div class="wrapper">
+                    #copyright; 2025 <b>KampungIngggris</b>
+                   </div>
+                </div>
+        </div> <!--penutup wrapper pertama-->
+    </body>
+</html>
